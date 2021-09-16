@@ -5,7 +5,7 @@ In this project we've analyzed Portuguese Bank's marketing campaign data and gen
 
 Project Name: Bank Marketing Analytics 
 
-Project Members: @Lokesh Venkata Sai Ganesh, @Aditi Shil
+Project Members: Lokesh Venkata Sai Ganesh, Aditi Shil
 
 Data set: Bank Marketing campaign data 
 
