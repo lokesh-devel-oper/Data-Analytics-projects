@@ -3,7 +3,7 @@ I would like to thank the whole iNeuron.ai team for this opportunity.
 
 In this project we've analyzed Portuguese Bank's marketing campaign data and generated useful insights using Exploratory Data Analysis in Python.
 
-Project Name: ### Bank Marketing Analytics 
+Project Name: Bank Marketing Analytics 
 
 Project Members: @Lokesh Venkata Sai Ganesh, @Aditi Shil
 
