@@ -12,3 +12,6 @@ Data set: Bank Marketing campaign data
 Object: Performed EDA to find a meaningful relationships between different attributes. 
 
 Tools used: Python, Jupyter Notebook 
+
+
+Tablea Public link: https://public.tableau.com/views/bank_16318628079500/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
