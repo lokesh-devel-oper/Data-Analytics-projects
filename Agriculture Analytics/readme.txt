@@ -8,3 +8,6 @@ Project Members: Aditi Shil , Lokesh Venkata Sai Ganesh
 Data set: Agricultural Data sets
 Object: Performed EDA to find meaningful relationships between different attributes.
 Tools used: Python, Jupyter Notebook
+
+
+Tableau Public Link: https://public.tableau.com/views/Agricultureanalytics/Story1?:language=en-US&:retry=yes&:display_count=n&:origin=viz_share_link
